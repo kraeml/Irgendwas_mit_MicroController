@@ -2,14 +2,16 @@
 
 author:   Michael Schaar
 email:    kraeml@sesamestreet.franken.de
-version:  0.0.3
+version:  0.0.4
 language: de
 narrator: DE German Female
 
 logo:     https://www.franken.de/fileadmin/KNF/Bilder/logo/knf-logo-313x107.png
 
 comment:  Kurs zum Vortrag  __Irgendwas mit MicroController__ von _Jochen Krapf_   
-          KNF Kongress 2022  
+
+          __KNF Kongress 2022  __
+
           Verschiedene Mini-Vorträge rund um das Thema IoT und MicroController. Ein Streifzug über die Auswahl der µC sowie der Programmierumgebung, die Wahl der Sprache und Bibliotheken, typische Hardware-Gadgets und ein paar Beispiele für Anwendungen in einem Nerd-Haushalt.
 -->
 
