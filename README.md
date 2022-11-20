@@ -17,7 +17,7 @@ Kurs zum Vortrag  __Irgendwas mit MicroController__ von _Jochen Krapf_
 
 Auf dem __KNF Kongress 2022__
 
-Thema war _Verschiedene Mini-Vorträge rund um das Thema IoT und MicroController. Ein Streifzug über die Auswahl der µC sowie der Programmierumgebung, die Wahl der Sprache und Bibliotheken, typische Hardware-Gadgets und ein paar Beispiele für Anwendungen in einem Nerd-Haushalt.
+Verschiedene Mini-Vorträge rund um das Thema IoT und MicroController. Ein Streifzug über die Auswahl der µC sowie der Programmierumgebung, die Wahl der Sprache und Bibliotheken, typische Hardware-Gadgets und ein paar Beispiele für Anwendungen in einem Nerd-Haushalt.
 
 ## Markdown
 
